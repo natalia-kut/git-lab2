@@ -1,1 +1,2 @@
 Autor: Natalia Kut
+Kurs: DevOps
